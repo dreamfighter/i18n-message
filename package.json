@@ -1,0 +1,26 @@
+{
+  "name": "i81n-message",
+  "version": "1.0.0",
+  "description": "Converting message.properties into json object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamfighter/i18n-message.git"
+  },
+  "keywords": [
+    "i18n",
+    "message"
+  ],
+  "dependencies": {
+    "properties-reader": "^2.1.0"
+  },
+  "author": "Fitra Adinugraha <fitra.adinugraha@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamfighter/i18n-message/issues"
+  },
+  "homepage": "https://github.com/dreamfighter/i18n-message#readme"
+}

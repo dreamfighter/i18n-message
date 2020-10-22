@@ -3,7 +3,7 @@ i18n-message
 
 [![Build Status](https://travis-ci.org/justinklemm/i18n-strings-files.png)](https://travis-ci.org/justinklemm/i18n-strings-files)
 
-Node.js module for processing .strings files used for localization in iOS/OSX development
+Node.js module for processing .strings/.properties files used for localization
 
 ## Installing with [npm](http://npmjs.org/)
 

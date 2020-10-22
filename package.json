@@ -1,6 +1,6 @@
 {
   "name": "i81n-message",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converting message.properties into json object",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "i18n",
-    "message"
+    "message",
+    "properties"
   ],
   "dependencies": {
     "properties-reader": "^2.1.0"
